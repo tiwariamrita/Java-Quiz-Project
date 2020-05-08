@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+
+.content {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+
+.content1 {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.mymargin {
+    margin-top: 20px;
+}
+
+.mymargin1 {
+    margin-top: 50px;
+}
+
+.mymargin2{
+    margin-top: 80px;
+    margin-left: 240px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.mymargin3{
+    margin-right: 6px;
+}
+
+body{
+    height: 600px;
+    border: solid midnightblue;
+    border-width: 2px;
+}
